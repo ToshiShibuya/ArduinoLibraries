@@ -1,5 +1,7 @@
 #include <Adafruit_I2CDevice.h>
 
+# Add 3rd Coments
+
 Adafruit_I2CDevice i2c_dev = Adafruit_I2CDevice(0x10);
 
 void setup() {
