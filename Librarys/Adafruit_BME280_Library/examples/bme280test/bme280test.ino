@@ -16,6 +16,8 @@
   See the LICENSE file for details.
  ***************************************************************************/
 
+# Add Coments
+
 #include <Wire.h>
 #include <SPI.h>
 #include <Adafruit_Sensor.h>
